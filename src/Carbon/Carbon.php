@@ -26,7 +26,7 @@ use InvalidArgumentException;
  * @property      integer $day
  * @property      integer $hour
  * @property      integer $minute
- * @property      integer $second
+ * @property      integer $second 
  * @property      integer $timestamp seconds since the Unix Epoch
  * @property-read integer $micro
  * @property-read integer $dayOfWeek 0 (for Sunday) through 6 (for Saturday)
